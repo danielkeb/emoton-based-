@@ -48,8 +48,6 @@ Based on your emotion, the application will recommend a playlist for you.
 Contributing
 Contributions are welcome! If you'd like to enhance the project or fix any issues, feel free to open a pull request. Please follow the Contributing Guidelines.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 This project was inspired by the idea of combining facial expression analysis with music recommendation.
