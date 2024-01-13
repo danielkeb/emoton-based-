@@ -1,5 +1,6 @@
 # Music Recommendation based on Facial Expression 🎶😊
 Welcome to the Music Recommendation project! This project utilizes machine learning, TensorFlow, and MediaPipe to recommend music based on facial expressions. The goal is to create a unique and personalized music recommendation experience by analyzing the user's emotions through their facial expressions.
+![alt text](https://github.com/danielkeb/emoton-based-/raw/main/facialexpression.png)
 
 ## Project Overview
   -- Features
