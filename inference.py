@@ -17,7 +17,6 @@ drawing = mp.solutions.drawing_utils
 cap = cv2.VideoCapture(0)
 
 
-
 while True:
 	lst = []
 
