@@ -29,7 +29,6 @@ cd emotion-based
 ## Install Dependencies:
 
 
-- pip install -r requirements.txt
 Ensure you have the following packages installed:
 
 
